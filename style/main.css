@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+* {font-family: 'Readex Pro';}
+
+a {
+    text-decoration: none;
+    color: whitesmoke !important;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #3894ca !important;
+    text-decoration: none;
+}
+
+ul {list-style-type: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+/* Hide Streamlit Branding */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
