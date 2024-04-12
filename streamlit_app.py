@@ -124,7 +124,7 @@ st.write("**Freelancer - Operations Analyst | MK Technologies**")
 st.write("*January 2023 - Present*")
 st.write(
     """
-- ► Analyze the operations data over the years and help the company in data-driven decision-making.
+- ► Analyzing the operations data over the years and help the company in data-driven decision-making.
 - ► Creating effective and interactive PowerBI dashboards that helps the company envisage the business forecast.
     """
 )
