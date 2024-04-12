@@ -124,8 +124,8 @@ st.write("**Freelancer - Operations Analyst | MK Technologies**")
 st.write("*January 2023 - Present*")
 st.write(
     """
-- ► Edit the transcripts and deliver the accurate reports to clients on time.
-- ► Audit the edited transcripts and evaluate in order to reduce the errors in the future.
+- ► Analyze the operations data over the years and help the company in data-driven decision-making.
+- ► Creating effective and interactive PowerBI dashboards that helps the company envisage the business forecast.
     """
 )
 
