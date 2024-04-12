@@ -85,8 +85,8 @@ st.write("---")
 st.write(
     """
 - 🗒️ Programming: Python (NumPy, Pandas, scikit-learn), SQL, Java
-- 📊 Data Visualization: Power BI, Tableau, MS Excel, Seaborn
-- 🗄️ Databases: PostreSQL, Microsoft SQL Server, MySQL
+- 📊 Data Visualization: Power BI, Advanced Excel, Seaborn, Matplotlib, Plotly
+- 🗄️ Databases: Django, PostreSQL, Microsoft SQL Server, MySQL, SQLlite3
 """
 )
 
