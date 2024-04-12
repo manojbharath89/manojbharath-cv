@@ -120,7 +120,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("\n")
-st.write("**Freelance Editor | Seeking Alpha**")
+st.write("**Freelancer - Operations Analyst | MK Technologies**")
 st.write("*January 2023 - Present*")
 st.write(
     """
