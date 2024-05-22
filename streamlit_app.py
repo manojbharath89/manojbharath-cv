@@ -84,7 +84,7 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- 🗒️ Programming: Python (NumPy, Pandas, Django, scikit-learn), SQL, Java
+- 🗒️ Programming: Python (NumPy, Pandas, scikit-learn, Django, Tkinter, Streamlit), SQL, Java
 - 📊 Data Visualization: Power BI, Advanced Excel, Seaborn, Matplotlib, Plotly
 - 🗄️ Databases: PostreSQL, Microsoft SQL Server, MySQL, SQLlite3
 """
