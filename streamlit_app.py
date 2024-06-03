@@ -84,9 +84,9 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- 🗒️ Programming: Python (NumPy, Pandas, scikit-learn), SQL, Java
-- 📊 Data Visualization: Power BI, Tableau, MS Excel, Seaborn
-- 🗄️ Databases: PostreSQL, Microsoft SQL Server, MySQL
+- 🗒️ Programming: Python (NumPy, Pandas, scikit-learn, Django, Tkinter, Streamlit), SQL
+- 📊 Data Visualization: Power BI, Advanced Excel, Seaborn, Matplotlib, Plotly
+- 🗄️ Databases: PostreSQL, Microsoft SQL Server, MySQL, SQLlite3
 """
 )
 
@@ -120,12 +120,12 @@ st.write("---")
 
 # --- JOB 1
 st.write("\n")
-st.write("**Freelance Editor | Seeking Alpha**")
+st.write("**Freelancer - Operations Analyst | MK Technologies**")
 st.write("*January 2023 - Present*")
 st.write(
     """
-- ► Edit the transcripts and deliver the accurate reports to clients on time.
-- ► Audit the edited transcripts and evaluate in order to reduce the errors in the future.
+- ► Analyzing the operations data over the years and help the company in data-driven decision-making.
+- ► Creating effective and interactive PowerBI dashboards that helps the company envisage the business forecast.
     """
 )
 
