@@ -7,7 +7,7 @@ from PIL import Image
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "style" / "main.css"
-resume_file = current_dir / "assets" / "CV.pdf"
+resume_file = current_dir / "assets" / "Manoj Bharath_CV.pdf"
 profile_pic = current_dir / "assets" / "Profile.png"
 
 
@@ -19,6 +19,7 @@ DESCRIPTION = """
 Data Analyst, assisting the organizations to develop and grow businesses with my key insights to help make data-driven decisions.
 """
 EMAIL = "manojbharath.jci@gmail.com"
+CONTACT = "+918807474836"
 SOCIAL_MEDIA = {
     "LinkedIn" : "https://www.linkedin.com/in/manojbharathj30/",
     "GitHub" : "https://github.com/manojbharath89",
@@ -56,6 +57,7 @@ with col2:
         mime="application/octet-stream",
     )
     st.write("📧", EMAIL)
+    st.write("📞", CONTACT)
 
 # --- SOCIAL LINKS ---
 st.write("#")
