@@ -3,6 +3,7 @@ from pathlib import Path
 import requests
 import streamlit as st
 from PIL import Image
+import warnings as wrn
 
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
@@ -194,3 +195,5 @@ def local_css(file_name):
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 local_css("style/style.css")
+
+wrn.filterwarnings("ignore", message="numpy.dtype size changed")
