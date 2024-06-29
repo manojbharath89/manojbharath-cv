@@ -7,13 +7,13 @@ from PIL import Image
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "style" / "main.css"
-resume_file = current_dir / "assets" / "Manoj Bharath_CV.pdf"
+resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "Profile.png"
 
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital Resume | Manoj Bharath"
-PAGE_ICON = "ðŸ’¼"
+PAGE_ICON = "💼"
 NAME = "Manoj Bharath"
 DESCRIPTION = """
 Data Analyst, assisting the organizations to develop and grow businesses with my key insights to help make data-driven decisions.
@@ -27,9 +27,9 @@ SOCIAL_MEDIA = {
     "Medium" : "https://medium.com/@manojbharathk"
 }
 PROJECTS = {
-    "ðŸ† Empowering Business with Effective Insights - Virtual Internship, TataiQ-Forage" : "https://www.novypro.com/project/online-retail-storedashboard-power-bi",
-    "ðŸ† HR Analytics" : "https://www.novypro.com/project/hr-analytics-power-bi-14",
-    "ðŸ† Diabetic Patients Analysis" : "https://www.kaggle.com/code/manojbharathj/pima-diabetic-patients-analysis"
+    "🏆 Empowering Business with Effective Insights - Virtual Internship, TataiQ-Forage" : "https://www.novypro.com/project/online-retail-storedashboard-power-bi",
+    "🏆 HR Analytics" : "https://www.novypro.com/project/hr-analytics-power-bi-14",
+    "🏆 Diabetic Patients Analysis" : "https://www.kaggle.com/code/manojbharathj/pima-diabetic-patients-analysis"
 }
 
 
@@ -51,13 +51,13 @@ with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
     st.download_button(
-        label="ðŸ“„ Download Resume",
+        label="📄 Download Resume",
         data=PDFbyte,
         file_name=resume_file.name,
         mime="application/octet-stream",
     )
-    st.write("ðŸ“§", EMAIL)
-    st.write("ðŸ“ž", CONTACT)
+    st.write("📧", EMAIL)
+    st.write("📞", CONTACT)
 
 # --- SOCIAL LINKS ---
 st.write("#")
@@ -71,10 +71,10 @@ st.subheader("Experience & Qualifications")
 st.write("---")
 st.write(
     """
-- âœ”ï¸ 2 Years experience in extracting actionable insights from data
-- âœ”ï¸ Strong hands-on experience and knowledge in SQL, Python, Power BI and Excel
-- âœ”ï¸ Good understanding of statistical principles and their respective applications
-- âœ”ï¸ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ 2 Years experience in extracting actionable insights from data
+- ✔️ Strong hands-on experience and knowledge in SQL, Python, Power BI and Excel
+- ✔️ Good understanding of statistical principles and their respective applications
+- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
 """
 )
 
@@ -84,9 +84,9 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- ðŸ—’ï¸ Programming: Python (NumPy, Pandas, scikit-learn, Django, Tkinter, Streamlit), SQL
-- ðŸ“Š Data Visualization: Power BI, Advanced Excel, Seaborn, Matplotlib, Plotly
-- ðŸ—„ï¸ Databases: PostreSQL, Microsoft SQL Server, MySQL, SQLlite3
+- 🗒️ Programming: Python (NumPy, Pandas, scikit-learn, Django, Tkinter, Streamlit), SQL
+- 📊 Data Visualization: Power BI, Advanced Excel, Seaborn, Matplotlib, Plotly
+- 🗄️ Databases: PostreSQL, Microsoft SQL Server, MySQL, SQLlite3
 """
 )
 
@@ -124,8 +124,8 @@ st.write("**Freelancer - Operations Analyst | MK Technologies**")
 st.write("*January 2023 - Present*")
 st.write(
     """
-- â–º Analyzing the operations data over the years and help the company in data-driven decision-making.
-- â–º Creating effective and interactive PowerBI dashboards that helps the company envisage the business forecast.
+- ► Analyzing the operations data over the years and help the company in data-driven decision-making.
+- ► Creating effective and interactive PowerBI dashboards that helps the company envisage the business forecast.
     """
 )
 
@@ -135,8 +135,8 @@ st.write("**Lead, Quality Assurance | Real Team Systems**")
 st.write("*April 2021 - December 2022*")
 st.write(
     """
-- â–º Edit the transcripts processed by the transcriptionists and deliver the accurate products to clients within specified TAT.
-- â–º Audit the edited transcripts and evaluate in order to reduce the errors in the future.
+- ► Edit the transcripts processed by the transcriptionists and deliver the accurate products to clients within specified TAT.
+- ► Audit the edited transcripts and evaluate in order to reduce the errors in the future.
     """
 )
 
@@ -146,8 +146,8 @@ st.write("**Senior Editor | Rndsoftech**")
 st.write("*January 2018 - March 2021*")
 st.write(
     """
-- â–º Helped deliver the quality earnings call transcripts.
-- â–º Responsible for Quality Control, where I had to derive valuable insights using and visualizations on the performance and productivity across various departments of the company.
+- ► Helped deliver the quality earnings call transcripts.
+- ► Responsible for Quality Control, where I had to derive valuable insights using and visualizations on the performance and productivity across various departments of the company.
     """
 )
 
@@ -157,8 +157,8 @@ st.write("**Healthcare Documentation Specialist | AQuity Solutions India**")
 st.write("*September 2014 - December 2017*")
 st.write(
     """
-- â–º Helping deliver the error-free healthcare reports that hold the confidential patient records in U.S.
-- â–º Had ample amount of knowledge on various medical terminologies and the root cause of the various diseases that affect less the immune people.
+- ► Helping deliver the error-free healthcare reports that hold the confidential patient records in U.S.
+- ► Had ample amount of knowledge on various medical terminologies and the root cause of the various diseases that affect less the immune people.
     """
 )
 
@@ -168,8 +168,8 @@ st.write("**Editor | Rndsoftech**")
 st.write("*April 2009 - September 2014*")
 st.write(
     """
-- â–º Performed various methods on the business data using Microsoft Excel and helped the executives gain business insights.
-- â–º Served as a liaison between client, peers and business managers to solve the problems pertain to the projects.
+- ► Performed various methods on the business data using Microsoft Excel and helped the executives gain business insights.
+- ► Served as a liaison between client, peers and business managers to solve the problems pertain to the projects.
     """
 )
 
