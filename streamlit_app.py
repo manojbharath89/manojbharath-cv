@@ -71,7 +71,7 @@ st.subheader("Experience & Qualifications")
 st.write("---")
 st.write(
     """
-- ✔️ 2 Years experience in extracting actionable insights from data
+- ✔️ 3 Plus Years experience in extracting actionable insights from data
 - ✔️ Strong hands-on experience and knowledge in SQL, Python, Power BI and Excel
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
