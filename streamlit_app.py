@@ -120,8 +120,20 @@ st.write("---")
 
 # --- JOB 1
 st.write("\n")
-st.write("**Freelancer - Operations Analyst | MK Technologies**")
-st.write("*January 2023 - Present*")
+st.write("**Business Intelligence Analyst | BLUEKODE SOLUTIONS**")
+st.write("*July 2023 - Present*")
+st.write(
+    """
+- ► Analyzed Superstore data to deliver actionable insights, resulting in a 15% increase in sales forecasting accuracy and 10% reduction in costs.
+- ► Designed and developed interactive PowerBI and Python visual dashboards to provide real-time business insights, driving a 25% increase in ROI for the business.
+    """
+)
+
+
+# --- JOB 2
+st.write("\n")
+st.write("**Data Analyst in Operations | MK Technologies**")
+st.write("*January 2023 - June 2023*")
 st.write(
     """
 - ► Analyzing the operations data over the years and help the company in data-driven decision-making.
@@ -129,47 +141,47 @@ st.write(
     """
 )
 
-# --- JOB 2
+# --- JOB 3
 st.write("\n")
 st.write("**Lead, Quality Assurance | Real Team Systems**")
 st.write("*April 2021 - December 2022*")
 st.write(
     """
-- ► Edit the transcripts processed by the transcriptionists and deliver the accurate products to clients within specified TAT.
-- ► Audit the edited transcripts and evaluate in order to reduce the errors in the future.
-    """
-)
-
-# --- JOB 3
-st.write("\n")
-st.write("**Senior Editor | Rndsoftech**")
-st.write("*January 2018 - March 2021*")
-st.write(
-    """
-- ► Helped deliver the quality earnings call transcripts.
-- ► Responsible for Quality Control, where I had to derive valuable insights using and visualizations on the performance and productivity across various departments of the company.
+- ► Analyzed employee performance data to identify areas for improvement.
+- ► Created data visual dashboards to inform quality score improvement.
     """
 )
 
 # --- JOB 4
 st.write("\n")
-st.write("**Healthcare Documentation Specialist | AQuity Solutions India**")
-st.write("*September 2014 - December 2017*")
+st.write("**Performance Analyst | RndSoftech**")
+st.write("*January 2018 - March 2021*")
 st.write(
     """
-- ► Helping deliver the error-free healthcare reports that hold the confidential patient records in U.S.
-- ► Had ample amount of knowledge on various medical terminologies and the root cause of the various diseases that affect less the immune people.
+- ► Analyzed and visualized performance data for clients using advanced Excel skills, providing actionable insights for strategic decisions.
+- ► Developed and maintained detailed reports and dashboards to track KPIs and KPMs, identifying areas for improvement and optimizing processes.
     """
 )
 
 # --- JOB 5
 st.write("\n")
-st.write("**Editor | Rndsoftech**")
+st.write("**Senior Healthcare Documentation Analyst | AQuity Solutions India**")
+st.write("*September 2014 - December 2017*")
+st.write(
+    """
+- ► Analyzed patient records to predict medical conditions and identify trends
+- ► Improved patient outcomes and disease management through data-driven insights
+    """
+)
+
+# --- JOB 6
+st.write("\n")
+st.write("**Business Operations Analyst | Rndsoftech**")
 st.write("*April 2009 - September 2014*")
 st.write(
     """
-- ► Performed various methods on the business data using Microsoft Excel and helped the executives gain business insights.
-- ► Served as a liaison between client, peers and business managers to solve the problems pertain to the projects.
+- ► Analyzed client data to provide business forecasts using predictive analytics, identifying trends, patterns and correlations to inform strategic decisions.
+- ► Developed Excel Dashboards to track KPIs and presented findings to Senior Management, ensuring data-driven decision-making across the organization.
     """
 )
 
