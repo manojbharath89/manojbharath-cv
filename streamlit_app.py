@@ -154,7 +154,7 @@ st.write(
 
 # --- JOB 4
 st.write("\n")
-st.write("**Performance Analyst | RndSoftech**")
+st.write("**Head of Operations | RndSoftech**")
 st.write("*January 2018 - March 2021*")
 st.write(
     """
