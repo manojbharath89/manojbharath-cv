@@ -18,7 +18,7 @@ NAME = "Manoj Bharath"
 DESCRIPTION = """
 Data Analyst, assisting the organizations to develop and grow businesses with my key insights to help make data-driven decisions.
 """
-EMAIL = "manojbharath.jci@gmail.com"
+EMAIL = "manojbharath.bi@gmail.com"
 CONTACT = "+918807474836"
 SOCIAL_MEDIA = {
     "LinkedIn" : "https://www.linkedin.com/in/manojbharathj30/",
@@ -121,7 +121,7 @@ st.write("---")
 # --- JOB 1
 st.write("\n")
 st.write("**Business Intelligence Analyst | BLUEKODE SOLUTIONS**")
-st.write("*July 2023 - Present*")
+st.write("*Jan 2023 - Present*")
 st.write(
     """
 - ► Analyzed Superstore data to deliver actionable insights, resulting in a 15% increase in sales forecasting accuracy and 10% reduction in costs.
