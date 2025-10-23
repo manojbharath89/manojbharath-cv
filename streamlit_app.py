@@ -125,7 +125,7 @@ st.write("*February 2025 - Present*")
 st.write(
     """
 - ► Analyzed Logistics data to deliver actionable insights, resulting in a 15% increase in Sales forecasting accuracy and delivered predictive models for Production Planning.
-- ► Automated and developed various Excel Dashboards with Tools that reduced 65% of the human working hours that helped making the process more efficient than it has been over the yesteryears.
+- ► Automated and developed various Excel Dashboards with Automated Tools that reduced 65% of the human working hours that helped making the process more efficient than it has been over the yesteryears.
     """
 )
 
