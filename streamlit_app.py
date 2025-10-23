@@ -120,8 +120,19 @@ st.write("---")
 
 # --- JOB 1
 st.write("\n")
+st.write("**Logistics Analyst | Schneider Electric India**")
+st.write("*February 2025 - Present*")
+st.write(
+    """
+- ► Analyzed Logistics data to deliver actionable insights, resulting in a 15% increase in Sales forecasting accuracy and delivered predictive models for Production Planning.
+- ► Automated and developed various Excel Dashboards with Tools that reduced 65% of the human working hours that helped making the process more efficient than it has been over the yesteryears.
+    """
+)
+
+# --- JOB 2
+st.write("\n")
 st.write("**Business Intelligence Analyst | BLUEKODE SOLUTIONS**")
-st.write("*January 2024 - Present*")
+st.write("*January 2024 - January 2025*")
 st.write(
     """
 - ► Analyzed Superstore data to deliver actionable insights, resulting in a 15% increase in sales forecasting accuracy and 10% reduction in costs.
@@ -130,7 +141,7 @@ st.write(
 )
 
 
-# --- JOB 2
+# --- JOB 3
 st.write("\n")
 st.write("**Data Analyst in Operations | MK Technologies**")
 st.write("*January 2023 - December 2023*")
@@ -141,7 +152,7 @@ st.write(
     """
 )
 
-# --- JOB 3
+# --- JOB 4
 st.write("\n")
 st.write("**Lead, Quality Assurance | Real Team Systems**")
 st.write("*April 2021 - December 2022*")
@@ -152,7 +163,7 @@ st.write(
     """
 )
 
-# --- JOB 4
+# --- JOB 5
 st.write("\n")
 st.write("**Head of Operations | RndSoftech**")
 st.write("*January 2018 - March 2021*")
@@ -163,7 +174,7 @@ st.write(
     """
 )
 
-# --- JOB 5
+# --- JOB 6
 st.write("\n")
 st.write("**Senior Healthcare Documentation Analyst | AQuity Solutions India**")
 st.write("*September 2014 - December 2017*")
