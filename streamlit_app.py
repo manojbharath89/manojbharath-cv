@@ -28,8 +28,8 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "🏆 Empowering Business with Effective Insights - Virtual Internship, TataiQ-Forage" : "https://www.novypro.com/project/online-retail-storedashboard-power-bi",
-    "🏆 HR Analytics" : "https://www.novypro.com/project/hr-analytics-power-bi-14",
-    "🏆 Diabetic Patients Analysis" : "https://www.kaggle.com/code/manojbharathj/pima-diabetic-patients-analysis"
+    "🏆 Operations & Revenue Analysis" : "https://app.powerbi.com/view?r=eyJrIjoiYmQwNjkyNjEtNGQxNC00MTdiLWIzZGMtYzgzNDg3YmMwNTc1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
+    "🏆 EdTech Academy Analytics" : "https://app.powerbi.com/view?r=eyJrIjoiMmE3MDUxZTItNzUxYi00ZDU0LThiNzEtNjA1MmViMDFjMjIyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
 }
 
 
