@@ -21,7 +21,7 @@ Data Analyst, assisting the organizations to develop and grow businesses with my
 EMAIL = "manojbharath.bi@gmail.com"
 CONTACT = "+918807474836"
 SOCIAL_MEDIA = {
-    "LinkedIn" : "https://www.linkedin.com/in/manojbharathj30/",
+    "LinkedIn" : "https://www.linkedin.com/in/manojbharathj-bi/",
     "GitHub" : "https://github.com/manojbharath89",
     "Kaggle" : "https://www.kaggle.com/manojbharathj",
     "Medium" : "https://medium.com/@manojbharathk"
