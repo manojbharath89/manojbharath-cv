@@ -129,16 +129,16 @@ st.write(
     """
 )
 
-# --- JOB 2
-st.write("\n")
-st.write("**Business Intelligence Analyst | BLUEKODE SOLUTIONS**")
-st.write("*January 2024 - January 2025*")
-st.write(
-    """
-- ► Analyzed Superstore data to deliver actionable insights, resulting in a 15% increase in sales forecasting accuracy and 10% reduction in costs.
-- ► Designed and developed interactive PowerBI and Python visual dashboards to provide real-time business insights, driving a 25% increase in ROI for the business.
-    """
-)
+# # --- JOB 2
+# st.write("\n")
+# st.write("**Business Intelligence Analyst | BLUEKODE SOLUTIONS**")
+# st.write("*January 2024 - January 2025*")
+# st.write(
+#     """
+# - ► Analyzed Superstore data to deliver actionable insights, resulting in a 15% increase in sales forecasting accuracy and 10% reduction in costs.
+# - ► Designed and developed interactive PowerBI and Python visual dashboards to provide real-time business insights, driving a 25% increase in ROI for the business.
+#     """
+# )
 
 
 # --- JOB 3
