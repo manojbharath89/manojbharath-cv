@@ -144,7 +144,7 @@ st.write(
 # --- JOB 3
 st.write("\n")
 st.write("**Data Analyst in Operations | MK Technologies**")
-st.write("*January 2023 - December 2023*")
+st.write("*January 2023 - January 2025*")
 st.write(
     """
 - ► Analyzing the operations data over the years and helped the company in data-driven decision-making.
