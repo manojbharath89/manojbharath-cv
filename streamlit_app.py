@@ -84,9 +84,12 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- 📊 Business Intelligence & Visualization: Power BI, Advanced Excel, Matplotlib, Seaborn, Plotly
-- ☁️ Cloud & Data Engineering: Google Cloud Platform (BigQuery, Dataproc, Pub/Sub), Apache Airflow
-- 🗄️ Databases: PostgreSQL, Microsoft SQL Server, MySQL, SQLite
+- 💻 Programming: Python (NumPy, Pandas, scikit-learn, Tkinter, Streamlit), SQL
+- 📊 Analytics & Visualization: Power BI, Advanced Excel, Matplotlib, Seaborn, Plotly
+- ☁️ Google Cloud Platform: BigQuery, Dataproc, Pub/Sub
+- ⚙️ Data Engineering & Automation: Apache Airflow, ETL Pipelines, Workflow Automation, Alteryx
+- 🗄️ Databases:  Microsoft SQL Server, MySQL
+
 """
 )
 
@@ -120,7 +123,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("\n")
-st.write("**Senior Associate | Actalent Services (Deputed to Ford Motor Company, ELCOT, Chennai)**")
+st.write("**Senior Associate | Actalent Services (~ Deputed to Ford Motor Company, ELCOT, Chennai)**")
 st.write("*March 2026 - Present*")
 st.write(
     """
