@@ -84,9 +84,9 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- 🗒️ Programming: Python (NumPy, Pandas, scikit-learn, Tkinter, Streamlit), SQL
-- 📊 Data Visualization: Power BI, Advanced Excel, Seaborn, Matplotlib, Plotly
-- 🗄️ Databases: PostreSQL, Microsoft SQL Server, MySQL, SQLlite3
+- 📊 Business Intelligence & Visualization: Power BI, Advanced Excel, Matplotlib, Seaborn, Plotly
+- ☁️ Cloud & Data Engineering: Google Cloud Platform (BigQuery, Dataproc, Pub/Sub), Apache Airflow
+- 🗄️ Databases: PostgreSQL, Microsoft SQL Server, MySQL, SQLite
 """
 )
 
