@@ -18,7 +18,7 @@ NAME = "Manoj Bharath"
 DESCRIPTION = """
 Data Analyst, assisting the organizations to develop and grow businesses with my key insights to help make data-driven decisions.
 """
-EMAIL = "manojbharath.bi@gmail.com"
+EMAIL = "manojbharathj30@gmail.com"
 CONTACT = "+918807474836"
 SOCIAL_MEDIA = {
     "LinkedIn" : "https://www.linkedin.com/in/manojbharathj-bi/",
@@ -226,7 +226,7 @@ st.write(
 st.header(":mailbox: Get in touch with me!")
 
 contact_form = """
-<form action="https://formsubmit.co/manojbharath.jci@gmail.com" method="POST">
+<form action="https://formsubmit.co/manojbharathj30@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="false">
      <input type="text" name="name" placeholder="Your Name" required>
      <input type="email" name="email" placeholder="Your E-mail" required>
