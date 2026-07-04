@@ -141,7 +141,7 @@ st.write(
 )
 
 
-# --- JOB 1
+# --- JOB 3
 st.write("\n")
 st.write("**Logistics Analyst | Schneider Electric India**")
 st.write("*February 2025 - November 2025*")
@@ -164,7 +164,7 @@ st.write(
 # )
 
 
-# --- JOB 3
+# --- JOB 4
 st.write("\n")
 st.write("**Data Analyst in Operations | MK Technologies**")
 st.write("*January 2023 - January 2025*")
@@ -175,18 +175,18 @@ st.write(
     """
 )
 
-# --- JOB 4
+# --- JOB 5
 st.write("\n")
 st.write("**Lead, Quality Assurance | Real Team Systems**")
 st.write("*April 2021 - December 2022*")
 st.write(
     """
-- ► Analyzed employee performance data to identify areas for improvement.
-- ► Created data visual dashboards to inform quality score improvement.
+- ► Led quality assurance and performance analysis for client engagements and internal teams, monitoring KPIs and KPAs to ensure alignment with organizational quality standards and business objectives.
+- ► Developed Excel dashboards and leveraged Google Cloud BigQuery (GCP) to analyze performance metrics, generate actionable insights, and support data-driven decision-making for continuous process improvement.
     """
 )
 
-# --- JOB 5
+# --- JOB 6
 st.write("\n")
 st.write("**Head of Operations | RndSoftech**")
 st.write("*January 2018 - March 2021*")
@@ -197,7 +197,7 @@ st.write(
     """
 )
 
-# --- JOB 6
+# --- JOB 7
 st.write("\n")
 st.write("**Senior Healthcare Documentation Analyst | AQuity Solutions India**")
 st.write("*September 2014 - December 2017*")
@@ -208,7 +208,7 @@ st.write(
     """
 )
 
-# --- JOB 6
+# --- JOB 8
 st.write("\n")
 st.write("**Business Operations Analyst | Rndsoftech**")
 st.write("*April 2009 - September 2014*")
