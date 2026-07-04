@@ -84,7 +84,7 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- 🗒️ Programming: Python (NumPy, Pandas, scikit-learn, Django, Tkinter, Streamlit), SQL
+- 🗒️ Programming: Python (NumPy, Pandas, scikit-learn, Tkinter, Streamlit), SQL
 - 📊 Data Visualization: Power BI, Advanced Excel, Seaborn, Matplotlib, Plotly
 - 🗄️ Databases: PostreSQL, Microsoft SQL Server, MySQL, SQLlite3
 """
@@ -120,8 +120,31 @@ st.write("---")
 
 # --- JOB 1
 st.write("\n")
+st.write("**Senior Associate | Actalent Services (Deputed to Ford Motor Company, ELCOT, Chennai)**")
+st.write("*March 2026 - Present*")
+st.write(
+    """
+- ► Ensure enterprise-wide data integrity by monitoring, validating, and maintaining high-quality business data, enabling accurate reporting and reliable decision-making across Ford Motor Company's operations.
+- ► Design and deliver interactive Power BI dashboards, develop data solutions using Google Cloud BigQuery, and automate manual processes to significantly reduce human effort, improve operational efficiency, and accelerate business insights.
+    """
+)
+
+# --- JOB 2
+st.write("\n")
+st.write("**Senior Executive | Allianz Partners (Deputed to Ford Motor Company, ELCOT, Chennai)**")
+st.write("*December 2025 - February 2026*")
+st.write(
+    """
+- ► Ensure enterprise-wide data integrity by monitoring, validating, and maintaining high-quality business data, enabling accurate reporting and reliable decision-making across Ford Motor Company's operations.
+- ► Design and deliver interactive Power BI dashboards, develop data solutions using Google Cloud BigQuery, and automate manual processes to significantly reduce human effort, improve operational efficiency, and accelerate business insights.
+    """
+)
+
+
+# --- JOB 1
+st.write("\n")
 st.write("**Logistics Analyst | Schneider Electric India**")
-st.write("*February 2025 - Present*")
+st.write("*February 2025 - November 2025*")
 st.write(
     """
 - ► Analyzed Logistics data to deliver actionable insights, resulting in a 10% increase in Sales forecasting accuracy and delivered effective predictive models for Production Planning.
