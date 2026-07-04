@@ -123,7 +123,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("\n")
-st.write("**Senior Associate | Actalent Services (~ Deputed to Ford Motor Company, ELCOT, Chennai)**")
+st.write("**Senior Associate | Actalent Services (Deputed to Ford Motor Company, ELCOT, Chennai)**")
 st.write("*March 2026 - Present*")
 st.write(
     """
