@@ -18,7 +18,7 @@ NAME = "Manoj Bharath"
 DESCRIPTION = """
 Data Analyst, assisting the organizations to develop and grow businesses with my key insights to help make data-driven decisions.
 """
-EMAIL = "manojbharath.bi@gmail.com"
+EMAIL = "manojbharathj30@gmail.com"
 CONTACT = "+918807474836"
 SOCIAL_MEDIA = {
     "LinkedIn" : "https://www.linkedin.com/in/manojbharathj-bi/",
@@ -84,9 +84,12 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- 🗒️ Programming: Python (NumPy, Pandas, scikit-learn, Django, Tkinter, Streamlit), SQL
-- 📊 Data Visualization: Power BI, Advanced Excel, Seaborn, Matplotlib, Plotly
-- 🗄️ Databases: PostreSQL, Microsoft SQL Server, MySQL, SQLlite3
+- 💻 Programming: Python (NumPy, Pandas, scikit-learn, Tkinter, Streamlit), SQL
+- 📊 Analytics & Visualization: Power BI, Advanced Excel, Matplotlib, Seaborn, Plotly
+- ☁️ Google Cloud Platform: BigQuery, Dataproc, Pub/Sub
+- ⚙️ Data Engineering & Automation: Apache Airflow, ETL Pipelines, Workflow Automation, Alteryx
+- 🗄️ Databases:  Microsoft SQL Server, MySQL
+
 """
 )
 
@@ -120,8 +123,31 @@ st.write("---")
 
 # --- JOB 1
 st.write("\n")
+st.write("**Senior Associate | Actalent Services (Deputed to Ford Motor Company, ELCOT, Chennai)**")
+st.write("*March 2026 - Present*")
+st.write(
+    """
+- ► Ensure enterprise-wide data integrity by monitoring, validating, and maintaining high-quality business data, enabling accurate reporting and reliable decision-making across Ford Motor Company's operations.
+- ► Design and deliver interactive Power BI dashboards, develop data solutions using Google Cloud BigQuery, and automate manual processes to significantly reduce human effort, improve operational efficiency, and accelerate business insights.
+    """
+)
+
+# --- JOB 2
+st.write("\n")
+st.write("**Senior Executive | Allianz Partners (Deputed to Ford Motor Company, ELCOT, Chennai)**")
+st.write("*December 2025 - February 2026*")
+st.write(
+    """
+- ► Ensure enterprise-wide data integrity by monitoring, validating, and maintaining high-quality business data, enabling accurate reporting and reliable decision-making across Ford Motor Company's operations.
+- ► Design and deliver interactive Power BI dashboards, develop data solutions using Google Cloud BigQuery, and automate manual processes to significantly reduce human effort, improve operational efficiency, and accelerate business insights.
+    """
+)
+
+
+# --- JOB 3
+st.write("\n")
 st.write("**Logistics Analyst | Schneider Electric India**")
-st.write("*February 2025 - Present*")
+st.write("*February 2025 - November 2025*")
 st.write(
     """
 - ► Analyzed Logistics data to deliver actionable insights, resulting in a 10% increase in Sales forecasting accuracy and delivered effective predictive models for Production Planning.
@@ -129,22 +155,22 @@ st.write(
     """
 )
 
-# --- JOB 2
-st.write("\n")
-st.write("**Business Intelligence Analyst | BLUEKODE SOLUTIONS**")
-st.write("*January 2024 - January 2025*")
-st.write(
-    """
-- ► Analyzed Superstore data to deliver actionable insights, resulting in a 15% increase in sales forecasting accuracy and 10% reduction in costs.
-- ► Designed and developed interactive PowerBI and Python visual dashboards to provide real-time business insights, driving a 25% increase in ROI for the business.
-    """
-)
+# # --- JOB 2
+# st.write("\n")
+# st.write("**Business Intelligence Analyst | BLUEKODE SOLUTIONS**")
+# st.write("*January 2024 - January 2025*")
+# st.write(
+#     """
+# - ► Analyzed Superstore data to deliver actionable insights, resulting in a 15% increase in sales forecasting accuracy and 10% reduction in costs.
+# - ► Designed and developed interactive PowerBI and Python visual dashboards to provide real-time business insights, driving a 25% increase in ROI for the business.
+#     """
+# )
 
 
-# --- JOB 3
+# --- JOB 4
 st.write("\n")
 st.write("**Data Analyst in Operations | MK Technologies**")
-st.write("*January 2023 - December 2023*")
+st.write("*January 2023 - January 2025*")
 st.write(
     """
 - ► Analyzing the operations data over the years and helped the company in data-driven decision-making.
@@ -152,20 +178,20 @@ st.write(
     """
 )
 
-# --- JOB 4
+# --- JOB 5
 st.write("\n")
 st.write("**Lead, Quality Assurance | Real Team Systems**")
 st.write("*April 2021 - December 2022*")
 st.write(
     """
-- ► Analyzed employee performance data to identify areas for improvement.
-- ► Created data visual dashboards to inform quality score improvement.
+- ► Led quality assurance and performance analysis for client engagements and internal teams, monitoring KPIs and KPAs to ensure alignment with organizational quality standards and business objectives.
+- ► Developed Excel dashboards and leveraged Google Cloud BigQuery (GCP) to analyze performance metrics, generate actionable insights, and support data-driven decision-making for continuous process improvement.
     """
 )
 
-# --- JOB 5
+# --- JOB 6
 st.write("\n")
-st.write("**Head of Operations | RndSoftech**")
+st.write("**Senior Editor | RndSoftech**")
 st.write("*January 2018 - March 2021*")
 st.write(
     """
@@ -174,7 +200,7 @@ st.write(
     """
 )
 
-# --- JOB 6
+# --- JOB 7
 st.write("\n")
 st.write("**Senior Healthcare Documentation Analyst | AQuity Solutions India**")
 st.write("*September 2014 - December 2017*")
@@ -185,9 +211,9 @@ st.write(
     """
 )
 
-# --- JOB 6
+# --- JOB 8
 st.write("\n")
-st.write("**Business Operations Analyst | Rndsoftech**")
+st.write("**Editor | Rndsoftech**")
 st.write("*April 2009 - September 2014*")
 st.write(
     """
@@ -200,7 +226,7 @@ st.write(
 st.header(":mailbox: Get in touch with me!")
 
 contact_form = """
-<form action="https://formsubmit.co/manojbharath.jci@gmail.com" method="POST">
+<form action="https://formsubmit.co/manojbharathj30@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="false">
      <input type="text" name="name" placeholder="Your Name" required>
      <input type="email" name="email" placeholder="Your E-mail" required>
