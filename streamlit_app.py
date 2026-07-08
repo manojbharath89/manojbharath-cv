@@ -191,7 +191,7 @@ st.write(
 
 # --- JOB 6
 st.write("\n")
-st.write("**Head of Operations | RndSoftech**")
+st.write("**Senior Editor | RndSoftech**")
 st.write("*January 2018 - March 2021*")
 st.write(
     """
@@ -213,7 +213,7 @@ st.write(
 
 # --- JOB 8
 st.write("\n")
-st.write("**Business Operations Analyst | Rndsoftech**")
+st.write("**Editor | Rndsoftech**")
 st.write("*April 2009 - September 2014*")
 st.write(
     """
